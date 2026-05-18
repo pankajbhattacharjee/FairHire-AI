@@ -1,0 +1,14 @@
+AI Engineer Intern
+
+We are seeking a motivated AI Engineer Intern to join our product team. The ideal candidate has experience in Python, FastAPI, LangChain, and SQL. Preferred skills include Docker, AWS, and RAG-based search. Responsibilities include building production-ready ML APIs, improving ranking algorithms, and collaborating with data scientists.
+
+Required:
+- Python
+- FastAPI
+- LangChain
+- SQL
+
+Preferred:
+- Docker
+- AWS
+- RAG
