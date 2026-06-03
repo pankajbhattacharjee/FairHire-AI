@@ -8,18 +8,18 @@ FairHire AI is an **agentic resume screening and bias detection platform** for r
 
 ### Live Demo
 
-Add your deployed app link here:
+
 
 ```text
-https://your-live-demo-link.com
+https://fairhire-ai-bknmmtxayui9jr7frswdg4.streamlit.app/
 ```
 
 ### Demo Video
 
-Add your demo video link here:
+
 
 ```text
-https://www.youtube.com/shorts/ZrrGORu6AxE
+https://youtube.com/shorts/ZrrGORu6AxE?si=RAArp7Ii1C1otg_C
 ```
 
 ---
